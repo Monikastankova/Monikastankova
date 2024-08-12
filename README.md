@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Monikastankova
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning C code
-- 💞️ I’m looking to learn
+- 💞️ I’m excited to learn!
 - 📫 
 - 😄 
-- ⚡ Fun fact: I love cats
+- ⚡ 
 
 <!---
 Monikastankova/Monikastankova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
